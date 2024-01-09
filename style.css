@@ -12,17 +12,17 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #0C0C0A;
-    color: #FFFFFF;
+    background-color: #28536b;
+    color: #f6f0ed;
 
 }
 
-h2,.magenta dye{
-    color: #BA2C73;
+h2,.air superiority blue{
+    color: #7ea8be;
 }
 
 a{
-    color: #FFFFFF;
+    color: #f6f0ed;
     text-decoration: none;
 }
 /* section 1 */
